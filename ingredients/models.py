@@ -17,3 +17,6 @@ class Ingredient(models.Model):
         
     def new_ingredient(self):
         pass
+
+    def new_branch(self):
+        pass
